@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ayudante de catedra de Estructuras y algoritmos 2 (Teoria de la computacion - ORT)
+- 🌱 I’m currently learning Ingenieria en Sistemas en ORT
+
 <!--
 **FranciscoFernandez09/FranciscoFernandez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
