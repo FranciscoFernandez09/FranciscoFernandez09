@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ayudante de catedra de Estructuras y algoritmos 2 (Teoria de la computacion - ORT)
+- 🔭 I’m currently working on Docente de practico de Estructuras y algoritmos 2 (Teoria de la computacion - ORT)
 - 🌱 I’m currently learning Ingenieria en Sistemas en ORT
 
 <!--
